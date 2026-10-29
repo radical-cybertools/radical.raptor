@@ -1,0 +1,9 @@
+
+# raptor from the current branch
+.
+
+pytest
+pytest-timeout
+pylint
+flake8
+coverage
